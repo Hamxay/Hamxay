@@ -35,5 +35,5 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamxay&show_icons=true&hide_border=true&layout=compact&langs_count=15"/>
 </p>
 
-![Languages](https://wakatime.com/share/@Hamxay/94420ed9-0f35-4138-b57b-490c78441159.svg)
+![Languages](https://wakatime.com/share/@Hamxay/437405b7-8286-4ed3-8aae-99e7c5bb1f2c.svg)
 
