@@ -26,19 +26,3 @@
 - 🌱 Learning all about **DevOps & Full Stack Development**
 - 💬 Ping me about **Django**, **React**, *React Native*, **Python**,  **Docker**, **RestAPIs**
 
-name: Wakatime Charts
-
-on:
-  workflow_dispatch:
-  schedule:
-    - cron: "0 0 * * *"
-
-jobs:
-  update-charts:
-    name: Update wakatime stats charts
-    runs-on: ubuntu-latest
-    steps:
-      - uses: dvjn/wakatime-charts@master
-        with:
-          WAKATIME_API_KEY: 3f3d82b0-8b8c-4719-860f-5be0ca0a3aab
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # only required if using the action in repository other than profile
