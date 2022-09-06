@@ -22,7 +22,6 @@
 - :calendar: Looking for contributing to node based open source projects 
 
 #### Bio
-- 🏢 I'm currently working at **Upwork**
 - ⚙️ I use daily: `.py`, `.js`, `.ts`, `.sh`
 - 🌱 Learning all about **DevOps & Full Stack Development**
 - 💬 Ping me about **Django**, **React**, *React Native*, **Python**,  **Docker**, **RestAPIs**
