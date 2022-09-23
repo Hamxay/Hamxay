@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Django, React, React Native, Python, Docker, RestAPIs**
 
-- 📫 How to reach me **Hamxay@341@gmail.com**
+- 📫 How to reach me **Hamxay341@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
