@@ -26,3 +26,4 @@
 - 🌱 Learning all about **DevOps & Full Stack Development**
 - 💬 Ping me about **Django**, **React**, *React Native*, **Python**,  **Docker**, **RestAPIs**
 
+<figure><embed src="https://wakatime.com/share/@Hamxay/8153badb-9ed0-43d8-9454-fb53840b5d8c.svg"></embed></figure>
