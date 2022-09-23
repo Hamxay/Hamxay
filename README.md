@@ -4,8 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamxay&label=Profile%20views&color=0e75b6&style=flat" alt="hamxay" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamxay" alt="hamxay" /></a> </p>
-#### Bio
-- ⚙️ I use daily: `.py`, `.js`, `.ts`, `.sh`
+
 - 💬 Ask me about **Django, React, React Native, Python, Docker, RestAPIs**
 
 - 📫 How to reach me **Hamxay341@gmail.com**
