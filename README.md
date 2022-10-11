@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamxay" alt="hamxay" /></a> </p>
 
-- 💬 Ask me about **Django, React, React Native, Python, Docker, RestAPIs**
+- 💬 Ask me about **Python, Flask, FastAPI, Django, React, React Native, Docker, RestAPIs**
 
 - 📫 How to reach me **Hamxay341@gmail.com**
 
