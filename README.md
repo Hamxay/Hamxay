@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamxay&label=Profile%20views&color=0e75b6&style=flat" alt="hamxay" /> </p>
 
-<p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=hamxay" alt="hamxay" /></a> </p>
-
 - 💬 Ask me about **Python, Flask, FastAPI, Django, React, React Native, Docker, RestAPIs**
 
 - 📫 How to reach me **Hamxay341@gmail.com**
