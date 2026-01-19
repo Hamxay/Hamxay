@@ -4,8 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamxay&label=Profile%20views&color=0e75b6&style=flat" alt="hamxay" /> </p>
 
 - 💬 Ask me about **Python, Flask, FastAPI, Django, React, React Native, Docker, RestAPIs**
-
-- 📫 How to reach me **Hamxay341@gmail.com**
  
 
 <h3 align="left">Languages and Tools:</h3>
