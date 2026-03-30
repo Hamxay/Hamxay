@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hamza</h1>
 <h3 align="center">I'm a software engineer working in Lahore, Pakistan</h3>
 
+<p align="center">
+  🌐 Portfolio: <a href="https://hamxay.lovable.app" target="_blank">https://hamxay.lovable.app</a>
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamxay&label=Profile%20views&color=0e75b6&style=flat" alt="hamxay" /> </p>
 
-- 💬 Ask me about **Python, Flask, FastAPI, Django, React, React Native, Docker, RestAPIs**
+- 💬 Ask me about **Python, Flask, FastAPI, Django, LLM, Generative AI, AI/ML ,AWS, React, React Native, Docker, RestAPIs**
  
 
 <h3 align="left">Languages and Tools:</h3>
